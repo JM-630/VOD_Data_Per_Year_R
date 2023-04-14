@@ -1,5 +1,5 @@
 # Overview
-This code allows the user to extract the Vegatation Optical Depth (VOD) data contained within geotiff files, and average the VOD data for each month
+This code allows the user to extract the Vegetation Optical Depth (VOD) data contained within geotiff files, and average the VOD data for each month
 within a given year. The code then exports the extracted averages for each month in a year to an Excel workbook containing a sheet with all of the
 months for the selected year.
 
